@@ -12,7 +12,7 @@
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn.freelogovectors.net/wp-content/uploads/2020/04/css-3-logo.png" alt="html" width="40" height="40"/>
   
    <h3 align="left">Adobe programs:</h3>
-  <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>  <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a><br><br>
+  <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>  <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/1200px-Adobe_After_Effects_CC_icon.svg.png" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a><br><br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darkswann&" alt="darkswann" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=darkswann&show_icons=true&locale=en" alt="darkswann" /></p>
