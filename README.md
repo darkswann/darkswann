@@ -7,7 +7,7 @@
  
 </p>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/901422674067210290?theme=light&bg=7ad3f5&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/612688335944679600)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/901422674067210290?theme=light&bg=7ad3f5&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/901422674067210290)
 
 
 <h3 align="left">Languages:</h3>
