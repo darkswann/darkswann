@@ -7,9 +7,6 @@
  
 </p>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/901422674067210290?theme=light&bg=7ad3f5&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/901422674067210290)
-
-
 <h3 align="left">Languages:</h3>
  <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://i.stack.imgur.com/PgcSR.png" alt="html" width="40" height="40"/>
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn.freelogovectors.net/wp-content/uploads/2020/04/css-3-logo.png" alt="html" width="40" height="40"/>
