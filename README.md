@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dark Swan</h1>
 <h3 align="center">I'm a Passionate Software Developer from Turkey</h3>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/796263552771817472?hideDiscrim=true)](https://discord.com/users/901422674067210290)
+[![Discord Presence](https://lanyard.cnrad.dev/api/901422674067210290)](https://discord.com/users/901422674067210290)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darkswann&label=Profile%20views&color=0e75b6&style=flat" alt="darkswann" /> </p>
