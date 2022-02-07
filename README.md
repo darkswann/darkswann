@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dark Swan</h1>
 <h3 align="center">I'm a Passionate Software Developer from Turkey</h3>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/796263552771817472?hideDiscrim=true)](https://discord.com/users/920060255147282482)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/920060255147282482?hideDiscrim=true)](https://discord.com/users/920060255147282482)
 
 
 
