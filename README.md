@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dark Swan</h1>
 <h3 align="center">I'm a Passionate Software Developer from Turkey</h3>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/901422674067210290)](https://discord.com/users/901422674067210290)
-
-
+[![Discord Presence](https://discord.com/users/239330400223232000)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darkswann&label=Profile%20views&color=0e75b6&style=flat" alt="darkswann" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula" alt="darkswann" /></a> </p>
