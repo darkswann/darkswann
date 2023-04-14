@@ -14,7 +14,7 @@
 
 <h3 align="left">Languages:</h3>
  <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
- <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="[https://velog.velcdn.com/images/cj98123/post/0536577d-9dbf-4f59-b87f-6e12a80dca21/image.jpeg](https://velog.velcdn.com/images/cj98123/post/0536577d-9dbf-4f59-b87f-6e12a80dca21/image.jpeg)" alt="csharp" width="40" height="40"/> </a>
+ <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://velog.velcdn.com/images/cj98123/post/0536577d-9dbf-4f59-b87f-6e12a80dca21/image.jpeg" alt="csharp" width="40" height="40"/> </a>
 
    <h3 align="left">Adobe programs:</h3>
   <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>  <a href="https://www.adobe.com/products/xd.html" target="_blank"> 
